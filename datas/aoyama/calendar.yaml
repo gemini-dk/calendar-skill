@@ -1,0 +1,30 @@
+calendar:
+  name: 2026（令和8）年度 学事暦
+  universityCode: K23001884
+  hasSaturdayClasses: true
+  inputUrl: https://www.aoyama.ac.jp/wp-content/uploads/2025/10/aa_2026calendar_gakubu.pdf
+  date: 2025-07-05
+
+terms:
+  - name: 前期
+    shortName: 前
+    order: 1
+    classCount: 15
+    isHoliday: false
+  - name: 後期
+    shortName: 後
+    order: 2
+    classCount: 15
+    isHoliday: false
+  - name: 春休み
+    shortName: 春休
+    order: 3
+    isHoliday: true
+  - name: 夏休み
+    shortName: 夏休
+    order: 4
+    isHoliday: true
+  - name: 冬休み
+    shortName: 冬休
+    order: 5
+    isHoliday: true

@@ -1,0 +1,36 @@
+calendar:
+  hasSaturdayClasses: false
+
+terms:
+  - name: 春学期前半
+    shortName: 春前
+    order: 1
+    classCount: 7
+    isHoliday: false
+  - name: 春学期後半
+    shortName: 春後
+    order: 2
+    classCount: 7
+    isHoliday: false
+  - name: 秋学期前半
+    shortName: 秋前
+    order: 3
+    classCount: 7
+    isHoliday: false
+  - name: 秋学期後半
+    shortName: 秋後
+    order: 4
+    classCount: 7
+    isHoliday: false
+  - name: 春休み
+    shortName: 春休
+    order: 5
+    isHoliday: true
+  - name: 夏休み
+    shortName: 夏休
+    order: 6
+    isHoliday: true
+  - name: 冬休み
+    shortName: 冬休
+    order: 7
+    isHoliday: true
