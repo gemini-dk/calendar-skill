@@ -1,0 +1,22 @@
+calendar:
+  name: 2026年度学事暦（PFC以外）
+  universityCode: K23001921
+  hasSaturdayClasses: true
+  inputUrl: https://www.obirin.ac.jp/about/machida_schedule2026.html
+
+terms:
+  - name: 春学期
+    shortName: 春
+    isHoliday: false
+  - name: 秋学期
+    shortName: 秋
+    isHoliday: false
+  - name: 春休み
+    shortName: 春休
+    isHoliday: true
+  - name: 夏休み
+    shortName: 夏休
+    isHoliday: true
+  - name: 冬休み
+    shortName: 冬休
+    isHoliday: true

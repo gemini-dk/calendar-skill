@@ -1,0 +1,30 @@
+calendar:
+  name: 2026年度 学事日程
+  universityCode: K23002151
+  hasSaturdayClasses: false
+  inputUrl: https://piloti.sophia.ac.jp/assets/uploads/2025/12/369269c19c30e0e641344d1fbac87a79.pdf
+  date: 2025-12-01
+
+terms:
+  - name: 春学期
+    shortName: 春
+    order: 1
+    classCount: 14
+    isHoliday: false
+  - name: 秋学期
+    shortName: 秋
+    order: 2
+    classCount: 14
+    isHoliday: false
+  - name: 春休み
+    shortName: 春休
+    order: 3
+    isHoliday: true
+  - name: 夏休み
+    shortName: 夏休
+    order: 4
+    isHoliday: true
+  - name: 冬休み
+    shortName: 冬休
+    order: 5
+    isHoliday: true

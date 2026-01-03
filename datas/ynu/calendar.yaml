@@ -1,0 +1,39 @@
+calendar:
+  name: 令和8年度（2026年度）学事暦＜学部履修案内用＞
+  id: K23003037
+  hasSaturdayClasses: false
+  inputUrl: https://www.ynu.ac.jp/campus/schedule/pdf/calendar_2026.pdf
+
+terms:
+  - name: 春学期前半
+    shortName: 春前
+    order: 1
+    classCount: 7
+    isHoliday: false
+  - name: 春学期後半
+    shortName: 春後
+    order: 2
+    classCount: 7
+    isHoliday: false
+  - name: 夏季休業期間
+    shortName: 夏休
+    order: 3
+    isHoliday: true
+  - name: 秋学期前半
+    shortName: 秋前
+    order: 4
+    classCount: 7
+    isHoliday: false
+  - name: 秋学期後半
+    shortName: 秋後
+    order: 5
+    classCount: 7
+    isHoliday: false
+  - name: 冬季休業期間
+    shortName: 冬休
+    order: 6
+    isHoliday: true
+  - name: 春季休業期間
+    shortName: 春休
+    order: 7
+    isHoliday: true
