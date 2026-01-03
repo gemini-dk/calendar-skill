@@ -1,0 +1,35 @@
+calendar:
+  name: 2026年度 教養学部前期課程 授業等日程
+  id: K23001770
+  hasSaturdayClasses: false
+  inputUrl: https://www.c.u-tokyo.ac.jp/zenki/Academic_Calendar_of_2026-2027.pdf
+
+terms:
+  - name: S1ターム
+    shortName: S1
+    order: 1
+    classCount: 7
+    isHoliday: false
+  - name: S2ターム
+    shortName: S2
+    order: 2
+    classCount: 7
+    isHoliday: false
+  - name: 夏季休業
+    shortName: 夏休
+    order: 3
+    isHoliday: true
+  - name: A1ターム
+    shortName: A1
+    order: 4
+    classCount: 7
+    isHoliday: false
+  - name: A2ターム
+    shortName: A2
+    order: 5
+    classCount: 7
+    isHoliday: false
+  - name: 春休み
+    shortName: 春休
+    order: 6
+    isHoliday: true

@@ -1,0 +1,41 @@
+calendar:
+  name: 授業カレンダー
+  universityCode: K23002966
+  hasSaturdayClasses: true
+  inputUrl: https://www.waseda.jp/fire/gsaps/assets/uploads/2025/12/7409ca539bb77d5d9903979eeb8785fa.pdf
+  date: 2026-01-03
+
+
+terms:
+  - name: 春クォーター
+    shortName: 春Q
+    order: 1
+    classCount: 8
+    isHoliday: false
+  - name: 夏クォーター
+    shortName: 夏Q
+    order: 2
+    classCount: 8
+    isHoliday: false
+  - name: 秋クォーター
+    shortName: 秋Q
+    order: 3
+    classCount: 8
+    isHoliday: false
+  - name: 冬クォーター
+    shortName: 冬Q
+    order: 4
+    classCount: 8
+    isHoliday: false
+  - name: 春休み
+    shortName: 春休
+    order: 5
+    isHoliday: true
+  - name: 夏休み
+    shortName: 夏休
+    order: 6
+    isHoliday: true
+  - name: 冬休み
+    shortName: 冬休
+    order: 7
+    isHoliday: true

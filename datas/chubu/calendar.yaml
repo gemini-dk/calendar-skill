@@ -1,0 +1,30 @@
+calendar:
+  name: 2026年度授業日予定表
+  universityCode: K23004393
+  hasSaturdayClasses: false
+  inputUrl: https://www.chubu.ac.jp/student-life/wp-content/uploads/sites/12/2025/11/2026jyugyobiyotei.pdf
+  date: 2025-11-19
+
+terms:
+  - name: 前期
+    shortName: 前
+    order: 1
+    classCount: 15
+    isHoliday: false
+  - name: 後期
+    shortName: 後
+    order: 2
+    classCount: 15
+    isHoliday: false
+  - name: 春休み
+    shortName: 春休
+    order: 3
+    isHoliday: true
+  - name: 夏休み
+    shortName: 夏休
+    order: 4
+    isHoliday: true
+  - name: 冬休み
+    shortName: 冬休
+    order: 5
+    isHoliday: true

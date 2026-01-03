@@ -1,0 +1,35 @@
+calendar:
+  name: 令和8(2026)年度 学年暦・授業計画
+  universityCode: K23006096
+  hasSaturdayClasses: false
+  inputUrl: https://www.wakayama-u.ac.jp/_files/00747165/R08_gakunereki.pdf
+
+terms:
+  - name: 第1クォーター
+    shortName: 1Q
+    order: 1
+    isHoliday: false
+  - name: 第2クォーター
+    shortName: 2Q
+    order: 2
+    isHoliday: false
+  - name: 第3クォーター
+    shortName: 3Q
+    order: 3
+    isHoliday: false
+  - name: 第4クォーター
+    shortName: 4Q
+    order: 4
+    isHoliday: false
+  - name: 春休み
+    shortName: 春休
+    order: 5
+    isHoliday: true
+  - name: 夏休み
+    shortName: 夏休
+    order: 6
+    isHoliday: true
+  - name: 冬休み
+    shortName: 冬休
+    order: 7
+    isHoliday: true

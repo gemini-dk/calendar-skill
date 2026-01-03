@@ -1,0 +1,29 @@
+calendar:
+  name: 2026年度 講義日程一覧（学部・大学院)
+  universityCode: K23004991
+  hasSaturdayClasses: true
+  inputUrl: https://www.doshisha.ac.jp/kouginittei_gakubu.daigakuin.pdf
+
+terms:
+  - name: 春学期
+    shortName: 春
+    order: 1
+    classCount: 14
+    isHoliday: false
+  - name: 秋学期
+    shortName: 秋
+    order: 2
+    classCount: 14
+    isHoliday: false
+  - name: 春休み
+    shortName: 春休
+    order: 3
+    isHoliday: true
+  - name: 夏休み
+    shortName: 夏休
+    order: 4
+    isHoliday: true
+  - name: 冬休み
+    shortName: 冬休
+    order: 5
+    isHoliday: true

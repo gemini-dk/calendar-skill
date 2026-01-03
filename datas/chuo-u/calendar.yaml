@@ -1,0 +1,30 @@
+calendar:
+  name: 2026年度 学部学年暦
+  universityCode: K23002379
+  hasSaturdayClasses: true
+  inputUrl: https://www.chuo-u.ac.jp/uploads/2025/11/aboutus_overview_college_calendar_2026_01-01.pdf
+  date: 2025-11-11
+
+terms:
+  - name: 前期
+    shortName: 前
+    order: 1
+    classCount: 14
+    isHoliday: false
+  - name: 後期
+    shortName: 後
+    order: 2
+    classCount: 14
+    isHoliday: false
+  - name: 春休み
+    shortName: 春休
+    order: 3
+    isHoliday: true
+  - name: 夏休み
+    shortName: 夏休
+    order: 4
+    isHoliday: true
+  - name: 冬休み
+    shortName: 冬休
+    order: 5
+    isHoliday: true

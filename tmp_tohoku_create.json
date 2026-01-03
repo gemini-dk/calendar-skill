@@ -1,0 +1,17 @@
+{
+  "name": "東北大学 2026年度 全学教育科目実施学年暦",
+  "universityCode": "K23000528",
+  "fiscalYear": 2026,
+  "terms": [
+    {"name": "第1クォーター", "shortName": "1Q", "order": 1, "holidayFlag": 2},
+    {"name": "第2クォーター", "shortName": "2Q", "order": 2, "holidayFlag": 2},
+    {"name": "夏季休業", "shortName": "夏休", "order": 3, "holidayFlag": 1},
+    {"name": "第3クォーター", "shortName": "3Q", "order": 4, "holidayFlag": 2},
+    {"name": "第4クォーター", "shortName": "4Q", "order": 5, "holidayFlag": 2},
+    {"name": "冬季休業", "shortName": "冬休", "order": 6, "holidayFlag": 1},
+    {"name": "学期末休業", "shortName": "学休", "order": 7, "holidayFlag": 1},
+    {"name": "春休み", "shortName": "春休", "order": 8, "holidayFlag": 1}
+  ],
+  "inputInformation": "https://www2.he.tohoku.ac.jp/center/keiji/info/nittei_2026_20251027.pdf, https://www2.he.tohoku.ac.jp/center/keiji/info/koyomi_2026_20251027.pdf",
+  "runAgent": false
+}

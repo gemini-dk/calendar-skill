@@ -1,0 +1,30 @@
+calendar:
+  name: 2026年度 名城大学カレンダー（薬学部1年）
+  universityCode: K23004603
+  hasSaturdayClasses: true
+  inputUrl: https://www.meijo-u.ac.jp/student_staff/pdf/calendar.pdf
+  date: 2025-03-21
+
+terms:
+  - name: 前期
+    shortName: 前
+    order: 1
+    classCount: 14
+    isHoliday: false
+  - name: 後期
+    shortName: 後
+    order: 2
+    classCount: 14
+    isHoliday: false
+  - name: 春休み
+    shortName: 春休
+    order: 3
+    isHoliday: true
+  - name: 夏休み
+    shortName: 夏休
+    order: 4
+    isHoliday: true
+  - name: 冬休み
+    shortName: 冬休
+    order: 5
+    isHoliday: true

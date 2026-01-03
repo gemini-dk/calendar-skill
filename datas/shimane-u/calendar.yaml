@@ -1,0 +1,34 @@
+calendar:
+  name: 令和8年度 島根大学学年暦（松江キャンパス用）
+  id: K23006144
+  hasSaturdayClasses: false
+  inputUrl: https://www.shimane-u.ac.jp/_files/00409506/R8_gakunenreki_2026.pdf
+  date: 2025-12-17
+
+terms:
+  - name: 前期
+    shortName: 前
+    order: 1
+    classCount: 14
+    isHoliday: false
+  - name: フレックスターム
+    shortName: フレ
+    order: 2
+    isHoliday: false
+  - name: 夏季休業
+    shortName: 夏休
+    order: 3
+    isHoliday: true
+  - name: 後期
+    shortName: 後
+    order: 4
+    classCount: 14
+    isHoliday: false
+  - name: 冬季休業
+    shortName: 冬休
+    order: 5
+    isHoliday: true
+  - name: 春季休業
+    shortName: 春休
+    order: 6
+    isHoliday: true

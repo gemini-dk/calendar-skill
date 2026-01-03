@@ -1,0 +1,45 @@
+{
+  "name": "東京大学 2026年度 教養学部前期課程 授業等日程",
+  "universityCode": "K23001770",
+  "fiscalYear": 2026,
+  "terms": [
+    {
+      "name": "S1ターム",
+      "shortName": "S1",
+      "order": 1,
+      "holidayFlag": 2
+    },
+    {
+      "name": "S2ターム",
+      "shortName": "S2",
+      "order": 2,
+      "holidayFlag": 2
+    },
+    {
+      "name": "夏季休業",
+      "shortName": "夏休",
+      "order": 3,
+      "holidayFlag": 1
+    },
+    {
+      "name": "A1ターム",
+      "shortName": "A1",
+      "order": 4,
+      "holidayFlag": 2
+    },
+    {
+      "name": "A2ターム",
+      "shortName": "A2",
+      "order": 5,
+      "holidayFlag": 2
+    },
+    {
+      "name": "春休み",
+      "shortName": "春休",
+      "order": 6,
+      "holidayFlag": 1
+    }
+  ],
+  "inputInformation": "https://www.c.u-tokyo.ac.jp/zenki/Academic_Calendar_of_2026-2027.pdf",
+  "runAgent": false
+}

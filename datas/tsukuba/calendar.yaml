@@ -1,0 +1,49 @@
+calendar:
+  name: 令和8年度学年暦カレンダー（学群/大学院・筑波キャンパス）
+  universityCode: K23000849
+  hasSaturdayClasses: false
+  inputUrl: https://www.tsukuba.ac.jp/campuslife/calendar-school/pdf/2026-undergrad-grad-tsukuba.pdf
+
+terms:
+  - name: 春Aモジュール
+    shortName: 春A
+    order: 1
+    classCount: 5
+    isHoliday: false
+  - name: 春Bモジュール
+    shortName: 春B
+    order: 2
+    classCount: 5
+    isHoliday: false
+  - name: 春Cモジュール
+    shortName: 春C
+    order: 3
+    classCount: 5
+    isHoliday: false
+  - name: 夏休み
+    shortName: 夏休
+    order: 4
+    isHoliday: true
+  - name: 秋Aモジュール
+    shortName: 秋A
+    order: 5
+    classCount: 5
+    isHoliday: false
+  - name: 秋Bモジュール
+    shortName: 秋B
+    order: 6
+    classCount: 5
+    isHoliday: false
+  - name: 冬休み
+    shortName: 冬休
+    order: 7
+    isHoliday: true
+  - name: 秋Cモジュール
+    shortName: 秋C
+    order: 8
+    classCount: 5
+    isHoliday: false
+  - name: 春休み
+    shortName: 春休
+    order: 9
+    isHoliday: true

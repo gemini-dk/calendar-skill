@@ -1,0 +1,29 @@
+calendar:
+  name: 2026年度 立命館大学 学年暦（学部）
+  universityCode: K23005040
+  hasSaturdayClasses: false
+  inputUrl: https://www.ritsumei.ac.jp/file.jsp?id=663824&f=.pdf
+
+terms:
+  - name: 春学期
+    shortName: 春
+    order: 1
+    classCount: 14
+    isHoliday: false
+  - name: 秋学期
+    shortName: 秋
+    order: 2
+    classCount: 14
+    isHoliday: false
+  - name: 春休み
+    shortName: 春休
+    order: 3
+    isHoliday: true
+  - name: 夏休み
+    shortName: 夏休
+    order: 4
+    isHoliday: true
+  - name: 冬休み
+    shortName: 冬休
+    order: 5
+    isHoliday: true

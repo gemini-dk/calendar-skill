@@ -1,0 +1,23 @@
+calendar:
+  name: 学年暦 学部（2026年度）
+  universityCode: K23002818
+  hasSaturdayClasses: true
+  inputUrl: https://www.hosei.ac.jp/campuslife/guide/gakuji/gakunenreki/daigaku/2026/
+  date: 2025-09-01
+
+terms:
+  - name: 春学期
+    shortName: 春
+    isHoliday: false
+  - name: 秋学期
+    shortName: 秋
+    isHoliday: false
+  - name: 春休み
+    shortName: 春休
+    isHoliday: true
+  - name: 夏休み
+    shortName: 夏休
+    isHoliday: true
+  - name: 冬休み
+    shortName: 冬休
+    isHoliday: true

@@ -1,0 +1,27 @@
+calendar:
+  name: 令和8（2026）年度 学年暦（授業スケジュール）
+  id: K23006328
+  hasSaturdayClasses: false
+  inputUrl: https://momiji.hiroshima-u.ac.jp/momiji-top/learning/215bc115d06b39735e1fdf7f72f36826f81bcc97.pdf
+
+terms:
+  - name: 第1ターム
+    shortName: 1T
+    order: 1
+    isHoliday: false
+  - name: 第2ターム
+    shortName: 2T
+    order: 2
+    isHoliday: false
+  - name: 第3ターム
+    shortName: 3T
+    order: 3
+    isHoliday: false
+  - name: 第4ターム
+    shortName: 4T
+    order: 4
+    isHoliday: false
+  - name: 休業期間
+    shortName: 休業
+    order: 5
+    isHoliday: true

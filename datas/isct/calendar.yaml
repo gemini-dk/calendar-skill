@@ -1,0 +1,39 @@
+calendar:
+  name: 各曜日毎の授業日程
+  id: K23001839
+  hasSaturdayClasses: true
+  inputUrl: https://www.titech.ac.jp/student/pdf/life-schedules-week-ay2026.pdf
+
+terms:
+  - name: 第1クォーター
+    shortName: 1Q
+    order: 1
+    classCount: 8
+    isHoliday: false
+  - name: 第2クォーター
+    shortName: 2Q
+    order: 2
+    classCount: 8
+    isHoliday: false
+  - name: 夏休み
+    shortName: 夏休
+    order: 3
+    isHoliday: true
+  - name: 第3クォーター
+    shortName: 3Q
+    order: 4
+    classCount: 8
+    isHoliday: false
+  - name: 第4クォーター
+    shortName: 4Q
+    order: 5
+    classCount: 8
+    isHoliday: false
+  - name: 冬休み
+    shortName: 冬休
+    order: 6
+    isHoliday: true
+  - name: 春休み
+    shortName: 春休
+    order: 7
+    isHoliday: true

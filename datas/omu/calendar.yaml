@@ -1,0 +1,28 @@
+calendar:
+  name: 2026年度 学事日程
+  universityCode: K23040076
+  hasSaturdayClasses: false
+  inputUrl: https://www.omu.ac.jp/assets/2026gakuji_251201.pdf
+  date: 2025-12-01
+
+terms:
+  - name: 前期
+    shortName: 前
+    order: 1
+    isHoliday: false
+  - name: 後期
+    shortName: 後
+    order: 2
+    isHoliday: false
+  - name: 春休み
+    shortName: 春休
+    order: 3
+    isHoliday: true
+  - name: 夏休み
+    shortName: 夏休
+    order: 4
+    isHoliday: true
+  - name: 冬休み
+    shortName: 冬休
+    order: 5
+    isHoliday: true
