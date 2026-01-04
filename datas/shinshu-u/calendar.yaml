@@ -1,0 +1,29 @@
+calendar:
+  name: 令和8(2026)年度 理学部 学年暦
+  universityCode: K23003772
+  hasSaturdayClasses: false
+  inputUrl: https://www.shinshu-u.ac.jp/faculty/science/others/assets/rigaku_calendar2026.pdf
+
+terms:
+  - name: 前期
+    shortName: 前
+    order: 1
+    classCount: 15
+    isHoliday: false
+  - name: 夏休み
+    shortName: 夏休
+    order: 2
+    isHoliday: true
+  - name: 後期
+    shortName: 後
+    order: 3
+    classCount: 15
+    isHoliday: false
+  - name: 冬休み
+    shortName: 冬休
+    order: 4
+    isHoliday: true
+  - name: 春休み
+    shortName: 春休
+    order: 5
+    isHoliday: true

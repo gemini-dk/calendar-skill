@@ -1,0 +1,29 @@
+calendar:
+  name: 大宮・深草（大学）（2026年度）
+  universityCode: K23005051
+  hasSaturdayClasses: true
+  inputUrl: https://www.ryukoku.ac.jp/campus_career/calendar/kyoto2026.html
+
+terms:
+  - name: 第1学期
+    shortName: 1学期
+    order: 1
+    classCount: 15
+    isHoliday: false
+  - name: 第2学期
+    shortName: 2学期
+    order: 2
+    classCount: 15
+    isHoliday: false
+  - name: 春期休業
+    shortName: 春休
+    order: 3
+    isHoliday: true
+  - name: 夏期休業
+    shortName: 夏休
+    order: 4
+    isHoliday: true
+  - name: 冬期休業
+    shortName: 冬休
+    order: 5
+    isHoliday: true

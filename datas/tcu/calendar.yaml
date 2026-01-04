@@ -1,0 +1,23 @@
+calendar:
+  name: 2026年度 学年暦
+  universityCode: K23007617
+  hasSaturdayClasses: true
+  inputUrl: https://www.asc.tcu.ac.jp/wp-content/uploads/2025/11/6603417c62cfab43a7a9e6b92ec4112d.pdf
+  date: 2025-12-01
+
+terms:
+  - name: 前期
+    shortName: 前
+    isHoliday: false
+  - name: 後期
+    shortName: 後
+    isHoliday: false
+  - name: 春休み
+    shortName: 春休
+    isHoliday: true
+  - name: 夏休み
+    shortName: 夏休
+    isHoliday: true
+  - name: 冬休み
+    shortName: 冬休
+    isHoliday: true

@@ -1,0 +1,40 @@
+calendar:
+  name: "2026(令和8)年度 武蔵野大学「学年暦」"
+  universityCode: K23002852
+  hasSaturdayClasses: true
+  inputUrl: https://www.musashino-u.ac.jp/student-life/%E4%BB%A4%E5%92%8C8%E5%B9%B4%E5%BA%A6%20%E6%AD%A6%E8%94%B5%E9%87%8E%E5%A4%A7%E5%AD%A6%E5%AD%A6%E5%B9%B4%E6%9A%A6.pdf
+  date: 2025-09-17
+
+terms:
+  - name: 1学期
+    shortName: 1
+    order: 1
+    classCount: 7
+    isHoliday: false
+  - name: 2学期
+    shortName: 2
+    order: 2
+    classCount: 7
+    isHoliday: false
+  - name: 3学期
+    shortName: 3
+    order: 3
+    classCount: 7
+    isHoliday: false
+  - name: 4学期
+    shortName: 4
+    order: 4
+    classCount: 7
+    isHoliday: false
+  - name: 春休み
+    shortName: 春休
+    order: 5
+    isHoliday: true
+  - name: 夏休み
+    shortName: 夏休
+    order: 6
+    isHoliday: true
+  - name: 冬休み
+    shortName: 冬休
+    order: 7
+    isHoliday: true

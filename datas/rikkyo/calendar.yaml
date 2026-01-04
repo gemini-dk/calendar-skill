@@ -1,0 +1,22 @@
+calendar:
+  name: 2026年度学年暦
+  universityCode: K23002922
+  hasSaturdayClasses: true
+  inputUrl: https://www.rikkyo.ac.jp/about/introduction/calendar/qo9edr0000006t7c-att/2026schedule.pdf
+
+terms:
+  - name: 春学期
+    shortName: 春
+    isHoliday: false
+  - name: 秋学期
+    shortName: 秋
+    isHoliday: false
+  - name: 春休み
+    shortName: 春休
+    isHoliday: true
+  - name: 夏休み
+    shortName: 夏休
+    isHoliday: true
+  - name: 冬休み
+    shortName: 冬休
+    isHoliday: true

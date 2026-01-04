@@ -1,0 +1,35 @@
+calendar:
+  name: 令和8年度新潟大学授業暦
+  universityCode: K23003336
+  hasSaturdayClasses: false
+  inputUrl: https://www.niigata-u.ac.jp/wp-content/uploads/2025/08/schedule_2026.pdf
+
+terms:
+  - name: 第1ターム
+    shortName: 1T
+    order: 1
+    isHoliday: false
+  - name: 第2ターム
+    shortName: 2T
+    order: 2
+    isHoliday: false
+  - name: 第3ターム
+    shortName: 3T
+    order: 3
+    isHoliday: false
+  - name: 第4ターム
+    shortName: 4T
+    order: 4
+    isHoliday: false
+  - name: 春休み
+    shortName: 春休
+    order: 5
+    isHoliday: true
+  - name: 夏休み
+    shortName: 夏休
+    order: 6
+    isHoliday: true
+  - name: 冬休み
+    shortName: 冬休
+    order: 7
+    isHoliday: true

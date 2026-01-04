@@ -1,0 +1,39 @@
+calendar:
+  name: 令和8年度（2026年度）共通教育行事予定表
+  id: K23007433
+  hasSaturdayClasses: false
+  inputUrl: https://www.kagoshima-u.ac.jp/education/4452d6e7210e1c1c461ca256c98fc35a4f38c365.pdf
+
+terms:
+  - name: 第1ターム
+    shortName: 1T
+    order: 1
+    classCount: 8
+    isHoliday: false
+  - name: 第2ターム
+    shortName: 2T
+    order: 2
+    classCount: 8
+    isHoliday: false
+  - name: 第3ターム
+    shortName: 3T
+    order: 3
+    classCount: 8
+    isHoliday: false
+  - name: 第4ターム
+    shortName: 4T
+    order: 4
+    classCount: 8
+    isHoliday: false
+  - name: 春休み
+    shortName: 春休
+    order: 5
+    isHoliday: true
+  - name: 夏休み
+    shortName: 夏休
+    order: 6
+    isHoliday: true
+  - name: 冬休み
+    shortName: 冬休
+    order: 7
+    isHoliday: true

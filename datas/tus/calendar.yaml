@@ -1,0 +1,27 @@
+calendar:
+  name: 2026年度 授業日程（予定）
+  universityCode: K23002623
+  hasSaturdayClasses: true
+  inputUrl: https://www.tus.ac.jp/tuslife/campuslife/event/schedule/
+
+terms:
+  - name: 前期
+    shortName: 前
+    order: 1
+    isHoliday: false
+  - name: 夏休み
+    shortName: 夏休
+    order: 2
+    isHoliday: true
+  - name: 後期
+    shortName: 後
+    order: 3
+    isHoliday: false
+  - name: 冬休み
+    shortName: 冬休
+    order: 4
+    isHoliday: true
+  - name: 春休み
+    shortName: 春休
+    order: 5
+    isHoliday: true

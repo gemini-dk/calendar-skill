@@ -1,0 +1,35 @@
+calendar:
+  name: "≪学部≫令和8（2026）年度 一橋大学学年暦"
+  universityCode: K23001851
+  hasSaturdayClasses: false
+  inputUrl: https://www.hit-u.ac.jp/kyomu/calendar/pdf/R8_2026_HU_academicyearcalender_jp_gakubu_calender.pdf
+
+terms:
+  - name: 春学期
+    shortName: 春
+    order: 1
+    isHoliday: false
+  - name: 夏学期
+    shortName: 夏
+    order: 2
+    isHoliday: false
+  - name: 秋学期
+    shortName: 秋
+    order: 3
+    isHoliday: false
+  - name: 冬学期
+    shortName: 冬
+    order: 4
+    isHoliday: false
+  - name: 春休み
+    shortName: 春休
+    order: 5
+    isHoliday: true
+  - name: 夏休み
+    shortName: 夏休
+    order: 6
+    isHoliday: true
+  - name: 冬休み
+    shortName: 冬休
+    order: 7
+    isHoliday: true

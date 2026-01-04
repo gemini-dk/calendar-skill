@@ -1,0 +1,31 @@
+calendar:
+  name: 2026年度学年暦カレンダー
+  universityCode: K23002656
+  hasSaturdayClasses: true
+  inputUrl: https://www.toyo.ac.jp/assets/campuslife/JP_AY2026_Academic_Calender.pdf
+
+terms:
+  - name: 第1クォーター
+    shortName: 1Q
+    order: 1
+    isHoliday: false
+  - name: 第2クォーター
+    shortName: 2Q
+    order: 2
+    isHoliday: false
+  - name: 夏休み
+    shortName: 夏休
+    order: 3
+    isHoliday: true
+  - name: 第3クォーター
+    shortName: 3Q
+    order: 4
+    isHoliday: false
+  - name: 第4クォーター
+    shortName: 4Q
+    order: 5
+    isHoliday: false
+  - name: 春休み
+    shortName: 春休
+    order: 6
+    isHoliday: true

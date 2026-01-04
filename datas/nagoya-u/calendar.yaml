@@ -1,0 +1,26 @@
+calendar:
+  name: 2026年度 学年暦（工学部）
+  universityCode: K23004131
+  hasSaturdayClasses: true
+  inputUrl: https://www.engg.nagoya-u.ac.jp/current/doc/2025/2026_ac_JP.pdf
+terms:
+  - name: 春学期
+    shortName: 春
+    order: 1
+    isHoliday: false
+  - name: 夏休み
+    shortName: 夏休
+    order: 2
+    isHoliday: true
+  - name: 秋学期
+    shortName: 秋
+    order: 3
+    isHoliday: false
+  - name: 冬休み
+    shortName: 冬休
+    order: 4
+    isHoliday: true
+  - name: 春休み
+    shortName: 春休
+    order: 5
+    isHoliday: true

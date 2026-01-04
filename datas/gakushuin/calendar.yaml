@@ -1,0 +1,29 @@
+calendar:
+  name: "令和8（2026）年度 学部・大学院 学年暦"
+  universityCode: K23001965
+  hasSaturdayClasses: true
+  inputUrl: https://www.univ.gakushuin.ac.jp/life/docs/011e111eb4522af658867b53fa6462917565d422.pdf
+
+terms:
+  - name: 第1学期
+    shortName: 1学期
+    order: 1
+    classCount: 13
+    isHoliday: false
+  - name: 第2学期
+    shortName: 2学期
+    order: 2
+    classCount: 13
+    isHoliday: false
+  - name: 春季休業
+    shortName: 春休
+    order: 3
+    isHoliday: true
+  - name: 夏季休業
+    shortName: 夏休
+    order: 4
+    isHoliday: true
+  - name: 冬季休業
+    shortName: 冬休
+    order: 5
+    isHoliday: true

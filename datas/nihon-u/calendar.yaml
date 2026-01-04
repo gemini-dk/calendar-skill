@@ -1,0 +1,29 @@
+calendar:
+  name: "令和8(2026)年度 日本大学文理学部 学事日程表"
+  universityCode: K23002678
+  hasSaturdayClasses: true
+  inputUrl: "https://chs.nihon-u.ac.jp/wp-content/uploads/2025/11/%E4%BB%A4%E5%92%8C8%E5%B9%B4%E5%BA%A6%E5%AD%A6%E4%BA%8B%E6%97%A5%E7%A8%8B%E8%A1%A8.pdf"
+
+terms:
+  - name: 前学期
+    shortName: 前
+    order: 1
+    classCount: 15
+    isHoliday: false
+  - name: 後学期
+    shortName: 後
+    order: 2
+    classCount: 15
+    isHoliday: false
+  - name: 春休み
+    shortName: 春休
+    order: 3
+    isHoliday: true
+  - name: 夏休み
+    shortName: 夏休
+    order: 4
+    isHoliday: true
+  - name: 冬休み
+    shortName: 冬休
+    order: 5
+    isHoliday: true

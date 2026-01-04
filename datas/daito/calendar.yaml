@@ -1,0 +1,28 @@
+calendar:
+  name: 2026年度 学年暦
+  universityCode: K23002313
+  hasSaturdayClasses: true
+  inputUrl: https://www.daito.ac.jp/campuslife/file/calendar2026.pdf?v2
+  date: 2025-10-13
+
+terms:
+  - name: 前期
+    shortName: 前
+    order: 1
+    isHoliday: false
+  - name: 後期
+    shortName: 後
+    order: 2
+    isHoliday: false
+  - name: 春休み
+    shortName: 春休
+    order: 3
+    isHoliday: true
+  - name: 夏休み
+    shortName: 夏休
+    order: 4
+    isHoliday: true
+  - name: 冬休み
+    shortName: 冬休
+    order: 5
+    isHoliday: true

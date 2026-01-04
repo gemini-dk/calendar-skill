@@ -1,0 +1,24 @@
+calendar:
+  name: 2026年度 授業実施日程
+  universityCode: K23003255
+  hasSaturdayClasses: true
+  inputUrl: https://www.u-tokai.ac.jp/uploads/2025/12/608b2f3dabe8b0d7e9d6ac7ea53898df.pdf, https://www.u-tokai.ac.jp/uploads/2025/12/80306285f42b147b88df9e641d74175d.pdf
+
+terms:
+  - name: 春学期
+    shortName: 春
+    classCount: 14
+    isHoliday: false
+  - name: 秋学期
+    shortName: 秋
+    classCount: 14
+    isHoliday: false
+  - name: 春休み
+    shortName: 春休
+    isHoliday: true
+  - name: 夏休み
+    shortName: 夏休
+    isHoliday: true
+  - name: 冬休み
+    shortName: 冬休
+    isHoliday: true

@@ -1,0 +1,37 @@
+calendar:
+  name: 東京農工大学 令和8年度学年暦
+  universityCode: K23001840
+  hasSaturdayClasses: true
+  inputUrl: https://www.tuat.ac.jp/documents/tuat/campuslife_career/campuslife/gakunenreki/2026gakunenreki.pdf
+  date: 2026-01-04
+terms:
+  - name: 1学期
+    shortName: 1
+    order: 1
+    classCount: 15
+    isHoliday: false
+  - name: 2学期
+    shortName: 2
+    order: 2
+    isHoliday: false
+  - name: 3学期
+    shortName: 3
+    order: 3
+    classCount: 15
+    isHoliday: false
+  - name: 4学期
+    shortName: 4
+    order: 4
+    isHoliday: false
+  - name: 春休み
+    shortName: 春休
+    order: 5
+    isHoliday: true
+  - name: 夏休み
+    shortName: 夏休
+    order: 6
+    isHoliday: true
+  - name: 冬休み
+    shortName: 冬休
+    order: 7
+    isHoliday: true

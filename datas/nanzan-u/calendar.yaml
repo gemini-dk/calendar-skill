@@ -1,0 +1,40 @@
+calendar:
+  name: 2026年度 授業日予定表【暫定版】
+  universityCode: K23004555
+  hasSaturdayClasses: true
+  inputUrl: https://office.nanzan-u.ac.jp/KYOUMU/course-class/item/calendar2026-zantei.pdf
+  date: 2025-10-22
+
+terms:
+  - name: 第1クォーター
+    shortName: 1Q
+    order: 1
+    classCount: 7
+    isHoliday: false
+  - name: 第2クォーター
+    shortName: 2Q
+    order: 2
+    classCount: 7
+    isHoliday: false
+  - name: 夏休み
+    shortName: 夏休
+    order: 3
+    isHoliday: true
+  - name: 第3クォーター
+    shortName: 3Q
+    order: 4
+    classCount: 7
+    isHoliday: false
+  - name: 第4クォーター
+    shortName: 4Q
+    order: 5
+    classCount: 7
+    isHoliday: false
+  - name: 冬休み
+    shortName: 冬休
+    order: 6
+    isHoliday: true
+  - name: 春休み
+    shortName: 春休
+    order: 7
+    isHoliday: true
