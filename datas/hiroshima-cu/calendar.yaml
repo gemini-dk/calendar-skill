@@ -1,0 +1,31 @@
+calendar:
+  name: 2026年度 授業カレンダー
+  id: K23006351
+  hasSaturdayClasses: false
+  inputUrl: https://www.hiroshima-cu.ac.jp/uploads/2023/12/2026_hcu_academic_calendar-20251215083356380.pdf
+
+terms:
+  - name: 第1ターム
+    shortName: 1T
+    order: 1
+    isHoliday: false
+  - name: 第2ターム
+    shortName: 2T
+    order: 2
+    isHoliday: false
+  - name: 第3ターム
+    shortName: 3T
+    order: 3
+    isHoliday: false
+  - name: 第4ターム
+    shortName: 4T
+    order: 4
+    isHoliday: false
+  - name: 春休み
+    shortName: 春休
+    order: 5
+    isHoliday: true
+  - name: 夏休み
+    shortName: 夏休
+    order: 6
+    isHoliday: true

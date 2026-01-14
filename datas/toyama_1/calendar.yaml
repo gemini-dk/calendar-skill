@@ -1,0 +1,36 @@
+calendar:
+  name: "令和8年度(2026年度) 富山大学学年暦（クォーター制）"
+  universityCode: K23003484
+  hasSaturdayClasses: false
+  inputUrl: https://www.u-toyama.ac.jp/wp/wp-content/uploads/R8_schedule_R71222.pdf
+  date: 2025-12-22
+
+terms:
+  - name: 第1ターム
+    shortName: 1T
+    order: 1
+    isHoliday: false
+  - name: 第2ターム
+    shortName: 2T
+    order: 2
+    isHoliday: false
+  - name: 第3ターム
+    shortName: 3T
+    order: 3
+    isHoliday: false
+  - name: 第4ターム
+    shortName: 4T
+    order: 4
+    isHoliday: false
+  - name: 春季休業
+    shortName: 春休
+    order: 5
+    isHoliday: true
+  - name: 夏季休業
+    shortName: 夏休
+    order: 6
+    isHoliday: true
+  - name: 冬季休業
+    shortName: 冬休
+    order: 7
+    isHoliday: true

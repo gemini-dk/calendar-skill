@@ -1,0 +1,26 @@
+calendar:
+  name: 令和8年度（2026年度）岡本・西宮キャンパス学年暦
+  universityCode: K23005729
+  hasSaturdayClasses: false
+  inputUrl: https://www.konan-u.ac.jp/pdf/info/schedule/2026/okamoto.pdf
+terms:
+  - name: 前期
+    shortName: 前
+    order: 1
+    isHoliday: false
+  - name: 夏休み
+    shortName: 夏休
+    order: 2
+    isHoliday: true
+  - name: 後期
+    shortName: 後
+    order: 3
+    isHoliday: false
+  - name: 冬休み
+    shortName: 冬休
+    order: 4
+    isHoliday: true
+  - name: 春休み
+    shortName: 春休
+    order: 5
+    isHoliday: true

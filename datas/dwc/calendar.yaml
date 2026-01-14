@@ -1,0 +1,29 @@
+calendar:
+  name: 2026年度 学年暦 授業日程
+  universityCode: K23005006
+  hasSaturdayClasses: false
+  inputUrl: https://assets.dwc.doshisha.ac.jp/8817/6353/8409/5_school_calendar_2025-2.pdf
+
+terms:
+  - name: 春学期
+    shortName: 春
+    order: 1
+    classCount: 14
+    isHoliday: false
+  - name: 秋学期
+    shortName: 秋
+    order: 2
+    classCount: 14
+    isHoliday: false
+  - name: 春休み
+    shortName: 春休
+    order: 3
+    isHoliday: true
+  - name: 夏休み
+    shortName: 夏休
+    order: 4
+    isHoliday: true
+  - name: 冬休み
+    shortName: 冬休
+    order: 5
+    isHoliday: true

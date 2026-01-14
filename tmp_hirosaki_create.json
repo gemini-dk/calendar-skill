@@ -1,0 +1,39 @@
+{
+  "name": "2026年度 授業日程（弘前大学）",
+  "universityCode": "K23000388",
+  "fiscalYear": 2026,
+  "terms": [
+    {
+      "name": "前期",
+      "shortName": "前",
+      "order": 1,
+      "holidayFlag": 2
+    },
+    {
+      "name": "後期",
+      "shortName": "後",
+      "order": 2,
+      "holidayFlag": 2
+    },
+    {
+      "name": "春休み",
+      "shortName": "春休",
+      "order": 3,
+      "holidayFlag": 1
+    },
+    {
+      "name": "夏休み",
+      "shortName": "夏休",
+      "order": 4,
+      "holidayFlag": 1
+    },
+    {
+      "name": "冬休み",
+      "shortName": "冬休",
+      "order": 5,
+      "holidayFlag": 1
+    }
+  ],
+  "inputInformation": "https://gkm.hirosaki-u.ac.jp/kyoikuinfo/wp-content/uploads/sites/4/2025/09/r8classschedule.pdf",
+  "runAgent": false
+}

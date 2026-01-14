@@ -1,0 +1,28 @@
+calendar:
+  name: 2026（令和8）年度 学年暦
+  universityCode: K23007547
+  hasSaturdayClasses: true
+  inputUrl: https://p1.ssl-dl.jp/dl/76277-bc01618c0de594424aabaafad5711514
+  date: 2025-11-05
+
+terms:
+  - name: 前期
+    shortName: 前
+    order: 1
+    isHoliday: false
+  - name: 後期
+    shortName: 後
+    order: 2
+    isHoliday: false
+  - name: 春期休業
+    shortName: 春休
+    order: 3
+    isHoliday: true
+  - name: 夏期休業
+    shortName: 夏休
+    order: 4
+    isHoliday: true
+  - name: 冬期休業
+    shortName: 冬休
+    order: 5
+    isHoliday: true

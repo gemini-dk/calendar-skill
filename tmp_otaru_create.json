@@ -1,0 +1,39 @@
+{
+  "name": "2026年度 小樽商科大学 行事予定表",
+  "universityCode": "K23000023",
+  "fiscalYear": 2026,
+  "terms": [
+    {
+      "name": "前期",
+      "shortName": "前",
+      "order": 1,
+      "holidayFlag": 2
+    },
+    {
+      "name": "後期",
+      "shortName": "後",
+      "order": 2,
+      "holidayFlag": 2
+    },
+    {
+      "name": "春休み",
+      "shortName": "春休",
+      "order": 3,
+      "holidayFlag": 1
+    },
+    {
+      "name": "夏休み",
+      "shortName": "夏休",
+      "order": 4,
+      "holidayFlag": 1
+    },
+    {
+      "name": "冬休み",
+      "shortName": "冬休",
+      "order": 5,
+      "holidayFlag": 1
+    }
+  ],
+  "inputInformation": "https://www.otaru-uc.ac.jp/wp-content/uploads/2025/10/6fb50e5bb1ab9ba5a65b69acbbe82ae6.pdf",
+  "runAgent": false
+}

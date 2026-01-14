@@ -1,0 +1,40 @@
+calendar:
+  name: "2026(令和8)年度 学年暦"
+  universityCode: K23007145
+  hasSaturdayClasses: false
+  inputUrl: https://sun.ac.jp/files/libs/69633//202601071126536519.pdf
+  date: 2026-01-07
+
+terms:
+  - name: 第1学期
+    shortName: 1学期
+    order: 1
+    classCount: 7
+    isHoliday: false
+  - name: 第2学期
+    shortName: 2学期
+    order: 2
+    classCount: 7
+    isHoliday: false
+  - name: 第3学期
+    shortName: 3学期
+    order: 3
+    classCount: 7
+    isHoliday: false
+  - name: 第4学期
+    shortName: 4学期
+    order: 4
+    classCount: 7
+    isHoliday: false
+  - name: 夏休み
+    shortName: 夏休
+    order: 5
+    isHoliday: true
+  - name: 冬休み
+    shortName: 冬休
+    order: 6
+    isHoliday: true
+  - name: 春休み
+    shortName: 春休
+    order: 7
+    isHoliday: true

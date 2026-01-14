@@ -1,0 +1,26 @@
+calendar:
+  name: 2026年度明海大学浦安キャンパス学生暦（学部）
+  universityCode: K23001703
+  hasSaturdayClasses: true
+  inputUrl: https://www.meikai.ac.jp/media/urayasu_undergraduate2026.pdf
+terms:
+  - name: 前学期
+    shortName: 前
+    order: 1
+    isHoliday: false
+  - name: 夏季休暇
+    shortName: 夏休
+    order: 2
+    isHoliday: true
+  - name: 後学期
+    shortName: 後
+    order: 3
+    isHoliday: false
+  - name: 冬季休暇
+    shortName: 冬休
+    order: 4
+    isHoliday: true
+  - name: 春季休暇
+    shortName: 春休
+    order: 5
+    isHoliday: true

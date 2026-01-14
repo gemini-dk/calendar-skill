@@ -1,0 +1,29 @@
+calendar:
+  name: 大学学事暦（2026年度）
+  universityCode: K23000872
+  hasSaturdayClasses: true
+  inputUrl: https://www.icc.ac.jp/campus/course/gakujireki/index.html
+
+terms:
+  - name: 前期
+    shortName: 前
+    order: 1
+    classCount: 15
+    isHoliday: false
+  - name: 後期
+    shortName: 後
+    order: 2
+    classCount: 15
+    isHoliday: false
+  - name: 春休み
+    shortName: 春休
+    order: 3
+    isHoliday: true
+  - name: 夏休み
+    shortName: 夏休
+    order: 4
+    isHoliday: true
+  - name: 冬休み
+    shortName: 冬休
+    order: 5
+    isHoliday: true

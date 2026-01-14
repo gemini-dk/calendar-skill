@@ -1,0 +1,30 @@
+calendar:
+  name: 2026年度 授業日程
+  universityCode: K23000388
+  hasSaturdayClasses: false
+  inputUrl: https://gkm.hirosaki-u.ac.jp/kyoikuinfo/wp-content/uploads/sites/4/2025/09/r8classschedule.pdf
+  date: 2025-05-28
+
+terms:
+  - name: 前期
+    shortName: 前
+    order: 1
+    classCount: 16
+    isHoliday: false
+  - name: 後期
+    shortName: 後
+    order: 2
+    classCount: 16
+    isHoliday: false
+  - name: 春休み
+    shortName: 春休
+    order: 3
+    isHoliday: true
+  - name: 夏休み
+    shortName: 夏休
+    order: 4
+    isHoliday: true
+  - name: 冬休み
+    shortName: 冬休
+    order: 5
+    isHoliday: true

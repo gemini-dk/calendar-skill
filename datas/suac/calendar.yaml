@@ -1,0 +1,29 @@
+calendar:
+  name: 令和8(2026)年度 学年暦
+  universityCode: K23004038
+  hasSaturdayClasses: false
+  inputUrl: https://www.suac.ac.jp/forstudents/studentlife/schedule/file/34384/r08_calendar.pdf
+
+terms:
+  - name: 前期
+    shortName: 前
+    order: 1
+    classCount: 15
+    isHoliday: false
+  - name: 後期
+    shortName: 後
+    order: 2
+    classCount: 15
+    isHoliday: false
+  - name: 春休み
+    shortName: 春休
+    order: 3
+    isHoliday: true
+  - name: 夏休み
+    shortName: 夏休
+    order: 4
+    isHoliday: true
+  - name: 冬休み
+    shortName: 冬休
+    order: 5
+    isHoliday: true

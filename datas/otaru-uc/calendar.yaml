@@ -1,0 +1,30 @@
+calendar:
+  name: 令和8年度 行事予定表
+  universityCode: K23000023
+  hasSaturdayClasses: false
+  inputUrl: https://www.otaru-uc.ac.jp/wp-content/uploads/2025/10/6fb50e5bb1ab9ba5a65b69acbbe82ae6.pdf
+  date: 2025-10-17
+
+terms:
+  - name: 前期
+    shortName: 前
+    order: 1
+    classCount: 14
+    isHoliday: false
+  - name: 後期
+    shortName: 後
+    order: 2
+    classCount: 14
+    isHoliday: false
+  - name: 春休み
+    shortName: 春休
+    order: 3
+    isHoliday: true
+  - name: 夏休み
+    shortName: 夏休
+    order: 4
+    isHoliday: true
+  - name: 冬休み
+    shortName: 冬休
+    order: 5
+    isHoliday: true

@@ -1,0 +1,28 @@
+calendar:
+  name: "令和8年度(2026年度) 富山大学学年暦（人間発達科学部・セメスター制）"
+  universityCode: K23003484
+  hasSaturdayClasses: false
+  inputUrl: https://www.u-toyama.ac.jp/wp/wp-content/uploads/R8_schedule_R71222.pdf
+  date: 2025-12-22
+
+terms:
+  - name: 前学期
+    shortName: 前
+    order: 1
+    isHoliday: false
+  - name: 後学期
+    shortName: 後
+    order: 2
+    isHoliday: false
+  - name: 春季休業
+    shortName: 春休
+    order: 3
+    isHoliday: true
+  - name: 夏季休業
+    shortName: 夏休
+    order: 4
+    isHoliday: true
+  - name: 冬季休業
+    shortName: 冬休
+    order: 5
+    isHoliday: true

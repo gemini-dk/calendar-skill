@@ -1,0 +1,29 @@
+calendar:
+  name: 令和8年度 学年暦
+  universityCode: K23007499
+  hasSaturdayClasses: false
+  inputUrl: https://www.u-ryukyu.ac.jp/wp-content/uploads/2025/12/789e1e2656046b3f6a3dbc313826fc65.pdf
+  date: 2025-10-14
+
+terms:
+  - name: 第1クォーター
+    shortName: 1Q
+    isHoliday: false
+  - name: 第2クォーター
+    shortName: 2Q
+    isHoliday: false
+  - name: 第3クォーター
+    shortName: 3Q
+    isHoliday: false
+  - name: 第4クォーター
+    shortName: 4Q
+    isHoliday: false
+  - name: 春休み
+    shortName: 春休
+    isHoliday: true
+  - name: 夏休み
+    shortName: 夏休
+    isHoliday: true
+  - name: 冬休み
+    shortName: 冬休
+    isHoliday: true

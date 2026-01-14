@@ -1,0 +1,31 @@
+calendar:
+  name: 2026年度 学事日程
+  universityCode: K23002726
+  hasSaturdayClasses: false
+  inputUrl: https://www.jwu.ac.jp/unv/seg_student/class/ct6r0e0000007t0j-att/gakuji_unv_2026.pdf
+  date: 2025-10-01
+
+
+terms:
+  - name: 前期
+    shortName: 前
+    order: 1
+    classCount: 14
+    isHoliday: false
+  - name: 後期
+    shortName: 後
+    order: 2
+    classCount: 14
+    isHoliday: false
+  - name: 春休み
+    shortName: 春休
+    order: 3
+    isHoliday: true
+  - name: 夏休み
+    shortName: 夏休
+    order: 4
+    isHoliday: true
+  - name: 冬休み
+    shortName: 冬休
+    order: 5
+    isHoliday: true

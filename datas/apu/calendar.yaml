@@ -1,0 +1,23 @@
+calendar:
+  name: 2026年度 立命館アジア太平洋大学 学年暦
+  universityCode: K23007352
+  hasSaturdayClasses: true
+  inputUrl: https://www.apu.ac.jp/academic/assets/file/academic_information/calendar/AY2026_APU_Academic_Calendar.pdf
+
+terms:
+  - name: 春セメスター
+    shortName: 春
+    order: 1
+    isHoliday: false
+  - name: 夏休み
+    shortName: 夏休
+    order: 2
+    isHoliday: true
+  - name: 秋セメスター
+    shortName: 秋
+    order: 3
+    isHoliday: false
+  - name: 冬休み
+    shortName: 冬休
+    order: 4
+    isHoliday: true

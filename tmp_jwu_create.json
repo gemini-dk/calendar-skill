@@ -1,0 +1,39 @@
+{
+  "name": "2026年度 日本女子大学 学事日程",
+  "universityCode": "K23002726",
+  "fiscalYear": 2026,
+  "terms": [
+    {
+      "name": "前期",
+      "shortName": "前",
+      "order": 1,
+      "holidayFlag": 2
+    },
+    {
+      "name": "後期",
+      "shortName": "後",
+      "order": 2,
+      "holidayFlag": 2
+    },
+    {
+      "name": "春休み",
+      "shortName": "春休",
+      "order": 3,
+      "holidayFlag": 1
+    },
+    {
+      "name": "夏休み",
+      "shortName": "夏休",
+      "order": 4,
+      "holidayFlag": 1
+    },
+    {
+      "name": "冬休み",
+      "shortName": "冬休",
+      "order": 5,
+      "holidayFlag": 1
+    }
+  ],
+  "inputInformation": "https://www.jwu.ac.jp/unv/seg_student/class/ct6r0e0000007t0j-att/gakuji_unv_2026.pdf",
+  "runAgent": false
+}

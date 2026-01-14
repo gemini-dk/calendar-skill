@@ -1,0 +1,27 @@
+calendar:
+  name: 令和8（2026）年度 学年暦
+  universityCode: K23003853
+  hasSaturdayClasses: false
+  inputUrl: https://www.gifu-u.ac.jp/upload/2026_calendar.pdf
+
+terms:
+  - name: 前学期
+    shortName: 前
+    order: 1
+    isHoliday: false
+  - name: 後学期
+    shortName: 後
+    order: 2
+    isHoliday: false
+  - name: 春季休業
+    shortName: 春休
+    order: 3
+    isHoliday: true
+  - name: 夏季休業
+    shortName: 夏休
+    order: 4
+    isHoliday: true
+  - name: 冬季休業
+    shortName: 冬休
+    order: 5
+    isHoliday: true

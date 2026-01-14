@@ -1,0 +1,39 @@
+calendar:
+  name: "2026（令和8）年度 岡山大学授業日程計画"
+  universityCode: K23006166
+  hasSaturdayClasses: false
+  inputUrl: https://www.okayama-u.ac.jp/up_load_files/kyoyo-pdf/plan/2026keikaku-1.pdf
+
+terms:
+  - name: 第1学期
+    shortName: 1学期
+    order: 1
+    classCount: 8
+    isHoliday: false
+  - name: 第2学期
+    shortName: 2学期
+    order: 2
+    classCount: 8
+    isHoliday: false
+  - name: 第3学期
+    shortName: 3学期
+    order: 3
+    classCount: 8
+    isHoliday: false
+  - name: 第4学期
+    shortName: 4学期
+    order: 4
+    classCount: 8
+    isHoliday: false
+  - name: 夏休み
+    shortName: 夏休
+    order: 5
+    isHoliday: true
+  - name: 冬休み
+    shortName: 冬休
+    order: 6
+    isHoliday: true
+  - name: 春休み
+    shortName: 春休
+    order: 7
+    isHoliday: true

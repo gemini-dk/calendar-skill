@@ -1,0 +1,44 @@
+calendar:
+  name: 2026年度 城西国際大学 学事暦
+  universityCode: K23001552
+  hasSaturdayClasses: true
+  inputUrl: https://www.jiu.ac.jp/files/user/visitors/pdf/%E5%AD%A6%E4%BA%8B%E6%9A%A62026_%E5%AD%A6%E7%94%9F.pdf
+  date: 2026-01-07
+
+terms:
+  - name: S1
+    shortName: S1
+    order: 1
+    classCount: 7
+    isHoliday: false
+  - name: S2
+    shortName: S2
+    order: 2
+    classCount: 7
+    isHoliday: false
+  - name: F1
+    shortName: F1
+    order: 3
+    classCount: 7
+    isHoliday: false
+  - name: F2
+    shortName: F2
+    order: 4
+    classCount: 7
+    isHoliday: false
+  - name: 春休み
+    shortName: 春休
+    order: 5
+    isHoliday: true
+  - name: 夏休み
+    shortName: 夏休
+    order: 6
+    isHoliday: true
+  - name: 冬休み
+    shortName: 冬休
+    order: 7
+    isHoliday: true
+  - name: 休業期間
+    shortName: 休業
+    order: 8
+    isHoliday: true

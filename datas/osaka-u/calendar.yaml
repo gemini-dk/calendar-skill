@@ -1,0 +1,18 @@
+calendar:
+  name: 令和8年度（2026年度）学年暦
+  universityCode: K23005062
+  hasSaturdayClasses: false
+  inputUrl: https://lc.hmt.osaka-u.ac.jp/wp-content/uploads/2025/12/R8-academic-schedule-calendar.pdf
+terms:
+  - name: 春学期
+    shortName: 春
+    isHoliday: false
+  - name: 夏学期
+    shortName: 夏
+    isHoliday: false
+  - name: 秋学期
+    shortName: 秋
+    isHoliday: false
+  - name: 冬学期
+    shortName: 冬
+    isHoliday: false
